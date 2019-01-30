@@ -1,0 +1,16 @@
+﻿.titulo {
+    display: inline-flex;
+}
+.logo {
+    margin-top: -13px;
+    margin-right: 10px;
+}
+.formulario {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.sent {
+    width: 42%;
+    margin-left: 25px;
+    float: left;
+}
